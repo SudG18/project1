@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-08T18:56:28 IST" name="Suite" finished-at="2024-01-08T18:56:55 IST" duration-ms="26927">
+    <groups>
+    </groups>
+    <test started-at="2024-01-08T18:56:28 IST" name="Test" finished-at="2024-01-08T18:56:55 IST" duration-ms="26927">
+      <class name="testscripts.MyFirstTestFW">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testscripts.MyFirstTestFW@223d2c72]" started-at="2024-01-08T18:56:29 IST" name="setUp" finished-at="2024-01-08T18:56:33 IST" duration-ms="3506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="simpleFormValidation(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testscripts.MyFirstTestFW@223d2c72]" started-at="2024-01-08T18:56:33 IST" name="simpleFormValidation" data-provider="data" finished-at="2024-01-08T18:56:35 IST" duration-ms="2700" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Creating FW!]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[45]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[54]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleFormValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testscripts.MyFirstTestFW@223d2c72]" started-at="2024-01-08T18:56:35 IST" name="tearDown" finished-at="2024-01-08T18:56:36 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testscripts.MyFirstTestFW@223d2c72]" started-at="2024-01-08T18:56:36 IST" name="setUp" finished-at="2024-01-08T18:56:38 IST" duration-ms="2409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="simpleFormValidation(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testscripts.MyFirstTestFW@223d2c72]" started-at="2024-01-08T18:56:38 IST" name="simpleFormValidation" data-provider="data" finished-at="2024-01-08T18:56:41 IST" duration-ms="2655" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Now Validating FW!]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[32]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleFormValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testscripts.MyFirstTestFW@223d2c72]" started-at="2024-01-08T18:56:41 IST" name="tearDown" finished-at="2024-01-08T18:56:41 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testscripts.MyFirstTestFW@223d2c72]" started-at="2024-01-08T18:56:41 IST" name="setUp" finished-at="2024-01-08T18:56:45 IST" duration-ms="4370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="simpleFormValidation(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testscripts.MyFirstTestFW@223d2c72]" started-at="2024-01-08T18:56:45 IST" name="simpleFormValidation" data-provider="data" finished-at="2024-01-08T18:56:48 IST" duration-ms="2624" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Done FW!]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleFormValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testscripts.MyFirstTestFW@223d2c72]" started-at="2024-01-08T18:56:48 IST" name="tearDown" finished-at="2024-01-08T18:56:48 IST" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testscripts.MyFirstTestFW@223d2c72]" started-at="2024-01-08T18:56:48 IST" name="setUp" finished-at="2024-01-08T18:56:49 IST" duration-ms="1315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="simpleFormValidation(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testscripts.MyFirstTestFW@223d2c72]" started-at="2024-01-08T18:56:49 IST" name="simpleFormValidation" data-provider="data" finished-at="2024-01-08T18:56:55 IST" duration-ms="5885" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Happy for Test Data]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleFormValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testscripts.MyFirstTestFW@223d2c72]" started-at="2024-01-08T18:56:55 IST" name="tearDown" finished-at="2024-01-08T18:56:55 IST" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testscripts.MyFirstTestFW -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
