@@ -25,7 +25,8 @@ public class MyFirstTestFW extends BaseTest {
 		driver.findElement(By.id(loc.getProperty("value2"))).sendKeys(b);
 		driver.findElement(By.xpath(loc.getProperty("get_total"))).click();
 		String sum= driver.findElement(By.id(loc.getProperty("total_value"))).getText();
-		System.out.println(sum);		
+		System.out.println(sum);
+		System.out.println("It is Done!");
 
 		}
 		
